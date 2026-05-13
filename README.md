@@ -1,4 +1,4 @@
-# FTP/SFTP file deployer
+# Fork of FTP/SFTP file deployer
 
 Fast and customizable deployment with parallel connections and proxy support. Deploy only changed files or do full sync/mirror of repository content.
 
